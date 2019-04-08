@@ -1,0 +1,4 @@
+#Mon Apr 08 19:39:20 GST 2019
+base.0=C\:\\Users\\Imperium-PC\\Desktop\\Penguin\\NyTimes\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
